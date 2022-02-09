@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about **React**, **Redux**, **CI/CD automation**, **Spring Cloud**
 
-🐦  https://twitter.com/xavex_eth
+🐦  https://twitter.com/xavex_eth 
+
 Ξ   xavex.eth
 
 😄 He/Him
