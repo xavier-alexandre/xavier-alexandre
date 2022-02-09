@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 🐦  https://twitter.com/xavex_eth 
 
-Ξ   xavex.eth
+Ξ   [xavex.eth](https://etherscan.io/address/xavex.eth)
 
 😄 He/Him
