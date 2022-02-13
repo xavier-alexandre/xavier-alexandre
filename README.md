@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💼 Senior Software Engineer with 8 years of experience coding distributed cloud applications, from frontend to backend, with object-oriented design and DevOps mindset. Passionate about well-crafted products and solving technical challenges, mentoring software engineers and influencing software standards in the world’s largest aircraft manufacturer. 
+💼 I'm a senior software engineer with 8 years of experience. I build distributed cloud applications, from frontend to backend, using object-oriented design and DevOps. I'm passionate about well-crafted products and solving technical challenges, I mentor software engineers and influence software standards in the world’s largest aircraft manufacturer. 
 
 🔥 Highly active in **Web3** development:
 - Currently [speedrunning the Ethereum](https://speedrunethereum.com/builders/0xDD14ffFAeF2E6F4889c2EDD1418fc816AB48ac26), **3/7**
