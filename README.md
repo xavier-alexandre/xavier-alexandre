@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💼 I'm a senior software engineer with 8 years of experience. I build distributed cloud applications, from frontend to backend, using object-oriented design and DevOps. I'm passionate about well-crafted products and solving technical challenges, I mentor software engineers and influence software standards in the world’s largest aircraft manufacturer. 
 
 🔥 Highly active in **Web3** development:
-- Currently [speedrunning the Ethereum](https://speedrunethereum.com/builders/0xDD14ffFAeF2E6F4889c2EDD1418fc816AB48ac26), **3/7**
+- Currently [speedrunning the Ethereum](https://speedrunethereum.com/builders/xavieralexandre.eth), **3/7**
 - Made it through [30-Days of Web3.0 ⚒️](https://twitter.com/wslyvh/status/1472955969151848456?s=20&t=wyKcY1i61E7gKqr6kwS7Ow) in January 22. [See my code](https://github.com/kethcode/30Web3_Genesis_NFT)
 
 💬 Ask me about **React**, **Redux**, **CI/CD automation**, **Spring Cloud**
